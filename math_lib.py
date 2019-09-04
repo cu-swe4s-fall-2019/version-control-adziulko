@@ -1,2 +1,5 @@
 def div(a, b):
-    return a/b
+    if b == 0:
+        return 'Please use non-zero integer'
+    else:
+        return a/b
