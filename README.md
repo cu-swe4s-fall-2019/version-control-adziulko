@@ -6,3 +6,5 @@ Get familiar with version control basics
 -Added add function
 
 -added calculate.py file
+
+-added run.sh file
